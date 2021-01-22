@@ -2,6 +2,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-image: url('artistic\ sunrise.jpg');
+    background-size: cover; 
   }
   
   textarea{
@@ -16,9 +18,9 @@ body {
   .jumbotron {
     text-align: center;
     background-color: transparent;
-    color: black;
+    color: white;
     border-radius: 0;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid white;
   }
   
   .description{
