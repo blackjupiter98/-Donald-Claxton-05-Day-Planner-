@@ -10,17 +10,16 @@ body {
     background: transparent;
     border: none;
     resize: none;
-    color: #000000;
-    border-left: 1px solid black;
+    border-left: 1px solid rgb(252, 252, 252);
     padding: 10px;
   }
   
   .jumbotron {
     text-align: center;
     background-color: transparent;
-    color: white;
+    color: rgb(247, 6, 195);
     border-radius: 0;
-    border-bottom: 10px solid white;
+    border-bottom: 2px solid rgb(253, 252, 252);
   }
   
   .description{
@@ -36,11 +35,11 @@ body {
   .row {
     white-space: pre-wrap;
     height: 80px;
-    border-top: 1px solid white;;
+    border-top: 1px solid rgb(248, 248, 248);;
   }
   
   .hour {
-    color: white;
+    color: rgb(250, 248, 248);
   }
   
   .past {
@@ -70,7 +69,7 @@ body {
   }
 
   .saveBtn i:hover {
-    font-size: 35px;
+    font-size: 40px;
     transition: all .3s ease-in-out;
     color: black;
   }
